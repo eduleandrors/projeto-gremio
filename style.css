@@ -32,7 +32,7 @@ header img {
 #menu {
   display: inline-block;
   text-align: center;
-  width: 35%;
+  width: 45%;
 }
 #menu ul {
   display: inline-block;
@@ -42,7 +42,7 @@ header img {
 
 #menu ul li {
   display: inline;
-  margin-right: 40px;
+  margin-right: 30px;
 }
 main {
     min-width: 300px;
